@@ -1,5 +1,5 @@
-# NSFW Auto Filter Telegram Bot
-I've used the a pretraiend model for detecting nsfw contents that is avaiable in  repository.
+# NSFW Auto Filter [Telegram Bot](https://core.telegram.org/bots)
+I've used the a pretraiend model for detecting nsfw contents that is avaiable in [NudeNet](https://github.com/notAI-tech/NudeNet) repository.
 
 ## How to run project
 1. Install Python v3.6
