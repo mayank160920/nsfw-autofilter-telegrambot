@@ -1,4 +1,4 @@
-# NSFW Auto Filter [Telegram Bot](https://core.telegram.org/bots)
+# NSFW Auto Filter [Telegram Bot](https://core.telegram.org/bots) by [Django](https://www.djangoproject.com/) and [Keras](https://keras.io/)
 I've used the a pretraiend model for detecting nsfw contents that is avaiable in [NudeNet](https://github.com/notAI-tech/NudeNet) repository.
 You should start this robot and add it to each group you want (you have to set the bot as admin) and when somebody sends nsfw contents, this bot removes that automatically. By the way this bot has more options like filtering links, stickers, documents, etc.
 
